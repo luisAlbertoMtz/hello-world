@@ -1,7 +1,7 @@
 # hello-world
 I am back
 
-## No code yet
+## This is just a practice playground
 
 More info soon
 Hello github
